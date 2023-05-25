@@ -1,0 +1,23 @@
+-Definir Variables
+
+Phyton
+x = 5             
+
+PSeInt             
+Definir x Como Entero;
+
+-Datos de entrada
+
+Phyton          
+x = input("Ingrese un número:")
+
+PSeInt
+Escribir "Ingrese un número";
+Leer x;
+
+NOTA = NO DEFINIR UNA VARIABLE CON EL NOMBRE DEL PROCESO
+
+
+
+
+

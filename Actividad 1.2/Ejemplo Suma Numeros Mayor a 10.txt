@@ -1,0 +1,22 @@
+Proceso suma_mayor_10
+	Definir num1,num2,num3 Como Entero;
+	
+	Escribir "Ingrese el primer número:";
+	Leer num1;
+	
+	Escribir "Ingrese el segundo número:";
+	Leer num2;
+	
+	Escribir "Ingrese el tercer número:";
+	Leer num3;
+	
+	Si num1 + num2 + num3 > 10 Entonces
+		Escribir "La suma de los números ingresados es mayor a 10";
+	SiNo
+		Si num1 + num2 + num3 < 10 Entonces
+			Escribir "La suma de los números ingresados es menor a 10";
+		SiNo
+			Escribir "La suma de los números ingresados es igual a 10";
+		FinSi
+	FinSi
+FinProceso

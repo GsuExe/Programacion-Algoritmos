@@ -1,0 +1,11 @@
+Proceso SumarNumeros
+	Definir num1,num2 Como Entero;
+	Escribir "Ingrese un número";
+	Leer num1;
+	
+	Escribir "Ingrese otro número:";
+	Leer num2;
+	
+	Escribir  "La suma de estos números es: ", num1 + num2;
+	
+FinProceso
